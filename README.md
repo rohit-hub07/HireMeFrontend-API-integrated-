@@ -1,3 +1,5 @@
+## Deployed Link:- https://hire-me-frontend-api-integrated.vercel.app/
+
 # HireMe
 
 This is the frontend for **HireMe**, a job search and job saving web application built with React, Zustand, React Router, and Tailwind CSS.
